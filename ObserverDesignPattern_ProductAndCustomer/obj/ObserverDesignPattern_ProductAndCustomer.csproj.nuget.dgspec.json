@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern1\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj": {}
+    "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj": {}
   },
   "projects": {
-    "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern1\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj": {
+    "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern1\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj",
+        "projectUniqueName": "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj",
         "projectName": "ObserverDesignPattern_ProductAndCustomer",
-        "projectPath": "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern1\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj",
+        "projectPath": "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj",
         "packagesPath": "C:\\Users\\spotlight\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern1\\ObserverDesignPattern_ProductAndCustomer\\obj\\",
+        "outputPath": "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern_ProductAndCustomer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
