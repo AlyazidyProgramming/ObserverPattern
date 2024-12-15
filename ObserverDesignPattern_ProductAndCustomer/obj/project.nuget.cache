@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWPrkcOeKGc=",
+  "dgSpecHash": "rMXV0hUeFTo=",
   "success": true,
-  "projectFilePath": "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj",
+  "projectFilePath": "D:\\source\\repo\\DesignPatterns\\BehavioralDesignPattern\\ObserverDesignPattern1\\ObserverDesignPattern_ProductAndCustomer\\ObserverDesignPattern_ProductAndCustomer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

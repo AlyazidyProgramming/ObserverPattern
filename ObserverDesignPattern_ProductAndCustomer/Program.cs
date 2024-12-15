@@ -18,6 +18,7 @@
       product1.RemoveWatcher(customer4);
       ((Product)product1).Price = 899m;
 
+      Console.WriteLine();
       Console.ReadKey();
    }
 }
